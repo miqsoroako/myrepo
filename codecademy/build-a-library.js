@@ -1,3 +1,6 @@
+// Codecademy project
+// https://www.codecademy.com/paths/back-end-engineer-career-path/tracks/becp-javascript-syntax-part-iii/modules/fecp-learn-javascript-syntax-classes/projects/build-a-library
+
 class Media {
     constructor(title) {
         this._title = title;
